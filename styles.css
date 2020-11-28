@@ -1,0 +1,25 @@
+.product-image{
+    width: 20%;
+}
+
+.product-text{
+    width: 70%;
+}
+
+.product-image img{
+    width: 100%;
+}
+
+.content {
+    margin: auto;
+    width: 50%;
+}
+
+.float-child {
+    height: 200px;  
+    float: left; 
+    padding: 20px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
